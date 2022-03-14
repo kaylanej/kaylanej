@@ -1,0 +1,43 @@
+
+h1 {
+    background-color: rgb(214, 141, 141);
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(44, 5, 5);
+}
+
+#destaques{
+    background-color: seagreen;
+    height: 250px;
+}
+
+#cityes{
+    background-color: skyblue;
+    height: 400px;
+}
+
+#picture{
+    background-color: slategrey;
+    height: 450px;
+
+}
+
+.picture-one{
+    height: 50px;
+    width: 150px;
+
+}
+
+.text{
+    height: 50px;
+}
+
+.size-picture{
+    height: 150px;
+    width: 400px;
+}
+footer{
+    background-color: rgb(184, 139, 184);
+    text-align: center;
+    height: 30px;
+}
